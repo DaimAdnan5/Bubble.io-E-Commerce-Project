@@ -8,15 +8,17 @@ Hekto is a full-featured e-commerce web application built on Bubble.io as part o
 
 ## Features
 
-- 🛍️ Product Catalog — Product listings with shop-wide filters
-- 🛒 Cart & Checkout — Full cart flow with Stripe and Cash on Delivery payment options
-- 📍 Multi-Address Support — Save and manage multiple shipping addresses
-- 📦 Order Management — Order history and status tracking
-- ❤️ Wishlist — Save products for later
-- 🏷️ Coupons & Discounts — Discount code logic applied at checkout
-- ⚡ Buy Now — One-click purchase flow with custom state management
-- 🔐 Authentication — Login/signup with toggling views, input validation, and conditional states
-- 📱 Responsive Design — Adaptive layout with a burger menu at the 768px breakpoint
+| Area | Highlights |
+| --- | --- |
+| 🛍️ Product Catalog | Shop-wide product listings and filters |
+| 🛒 Cart & Checkout | Stripe and Cash on Delivery payment options |
+| 📍 Multi-Address Support | Save and manage multiple shipping addresses |
+| 📦 Order Management | Order history and status tracking |
+| ❤️ Wishlist | Save products for later |
+| 🏷️ Coupons & Discounts | Discount code logic applied at checkout |
+| ⚡ Buy Now | One-click purchase flow with custom state management |
+| 🔐 Authentication | Login/signup with toggling views, validation, and conditional states |
+| 📱 Responsive Design | Adaptive layout with a burger menu at the 768px breakpoint |
 
 ## Tech Stack
 
